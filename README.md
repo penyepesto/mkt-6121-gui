@@ -17,11 +17,11 @@
 ##  Installation
 
 #  Clone the repo
-$ git clone https://github.com/<your-username>/image-processing-suite.git
-$ cd image-processing-suite
+$ git clone [https://github.com/penyepesto/mkt-6121-gui/tree/main].git
+$ cd mkt-6121-gui
 
 #  (Recommended) create a virtual env
-$ python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\activate
+$ python -m venv .venv && source .venv/bin/activate 
 
 # Install dependencies
 $ pip install -r requirements.txt
@@ -29,6 +29,5 @@ $ pip install -r requirements.txt
 ## Usage
 
 ```bash
-# Run as a module so PyQt can find resources correctly
 python -m gui.run_app
 ```
