@@ -12,7 +12,7 @@
 * Live **GPU‑accelerated preview** with threaded processing.
 * Classical ops: blur, edge detection, morphology, color space conversions.
 * Geometric ops: resize, rotate around arbitrary pivot, perspective warp.
-* AI ops: YOLOv5 object detection, U‑Net segmentation (plug‑and‑play models).
+* AI ops: YOLOv5 object detection, U‑Net segmentation, anomalib, pix2pix (plug‑and‑play models).
 
 ##  Installation
 
